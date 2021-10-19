@@ -1,0 +1,56 @@
+[
+{
+    "name":"Cardiology",
+    "description":"Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis. ",
+    "detailsInfo":"a branch of internal medicine. A cardiologist is not the same as a cardiac surgeon. A cardiac surgeon opens the chest and performs heart surgery.A cardiologist specializes in diagnosing and treating diseases of the cardiovascular system. The cardiologist will carry out tests, and they may perform some procedures, such as heart catheterizations, angioplasty, or inserting a pacemaker.Heart disease relates specifically to the heart, while cardiovascular disease affects the heart, the blood vessels, or both.To become a cardiologist in the United States, it is necessary to complete 4 years of medical school, 3 years of training in internal medicine, and at least 3 years specializing in cardiology. When would I need a cardiologist?",
+    "img":"https://www.rumcsi.org/wp-content/uploads/2020/09/Cardiology-scaled.jpg"
+},
+{
+    "name":"Neurology",
+    "description":"Neurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system. The nervous system is a complex, sophisticated system.",
+    "detailsInfo":"Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous systems, including their coverings, blood vessels, and all effector tissue, such as muscle.Neurologists are specialists who treat diseases of the brain and spinal cord, peripheral nerves and muscles. Neurological conditions include epilepsy, stroke, multiple sclerosis (MS) and Parkinson's disease.",
+    "img":"https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/494/2020/01/20193256/Neurology-Neurologist-What-Is_iStock1027614568-scaled.jpg"
+},
+{
+    "name":"Urology",
+    "description":"Urology, also known as genitourinary surgery, is the branch of medicine that focuses on surgical and medical diseases of the male and female urinary-tract system . ",
+    "detailsInfo":"Urology is known as a surgical specialty. Besides surgery, a urologist is a doctor with wisdom of internal medicine, pediatrics, gynecology and other parts of health care. This is because a urologist encounters a wide range of clinical problems. The scope of urology is big and the American Urological Association has named seven subspecialty parts:Pediatric Urology (children's urology)Urologic Oncolo(urologic cancers)Renal (kidney) TransplantMale InfertilityCalculi (urinary tracstones Female UrologyNeurourology (nervous system control of genitourinary organs)",
+    "img":"https://lovelacemedicalgroup.com/sites/default/files/service-images/urology_iStock-501671532.jpg"
+},
+{
+    "name":"Valve Diseases",
+    "description":"In heart valve disease, one or more of the valves in your heart doesn't work properly. Your heart has four valves that keep blood flowing in the correct direction. ",
+    "detailsInfo":"The stiffening of heart valves can narrow the size of the valve opening and restrict blood flow. The narrowing is called valve stenosis. It keeps the valve from opening fully and reduces the amount of blood that can flow through. In severe cases, the valve opening can become so narrow that the rest of the body may not receive adequate blood flow.Tricuspid valve stenosis If your tricuspid valve narrows, blood is not able to fully move from the right atrium to the right ventricle. This can cause the atrium to enlarge, affecting pressure and blood flow in the surrounding chambers and veins. It can also cause the right ventricle to become smaller, so less blood circulates to your lungs to pick up oxygen.",
+    "img":"https://www.heartfoundation.org.nz/media/images/heart-healthcare/public/page-heros/stenosis-regurgitation_737_553.jpg"
+},
+{
+    "name":"Body Surgery",
+    "description":"Improving aesthetic appeal, symmetry, and proportion are the key goals. An aesthetic surgery can be performed on all areas of the head, neck, and body. ",
+    "detailsInfo":"Plastic surgery is a surgical specialty involving the restoration, reconstruction, or alteration of the human body. It can be divided into two main categories: reconstructive surgery and cosmetic surgery. Reconstructive surgery includes craniofacial surgery, hand surgery, microsurgery, and the treatment of burns.",
+    "img":"https://images.theconversation.com/files/302968/original/file-20191121-483-4e81yr.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop"
+},
+{
+    "name":"Children’s",
+    "description":"Child health is the purview of pediatrics, which became a medical specialty in the mid-nineteenth century. Before that time the care and treatment of childhood diseases. ",
+    "detailsInfo":"Children’s Health Care of Newburyport and Haverhill provides comprehensive pediatric health care from birth through adolescence. Our full-circle approach covers preventative care, urgent care, and specialist referrals. It also includes on-site pediatric nutrition counseling, special care coordination, and social services. As one of the largest pediatric practices in the area, we continue to grow due to our personal approach to care and our involvement in the surrounding communities.Since 1972, our team of board-certified providers has cared for families from across the North Shore, Merrimack Valley, southern New Hampshire, and the Seacoast regions. We offer two convenient locations, where our board-certified pediatricians provide a complete circle of care alongside our other children’s health experts.",
+    "img":"https://mcdmag.com/wp-content/uploads/2014/02/Cenntennial-Lobby-Childrens-Medical-Center-Dallas_R.jpg"
+},
+{
+    "name":"Pharmacy",
+    "description":"Pharmacists dispense prescription medications to patients and offer expertise in the safe use of prescriptions. They also may conduct health and wellness screenings .",
+    "detailsInfo":"pharmacy, the science and art concerned with the preparation and standardization of drugs. Its scope includes the cultivation of plants that are used as drugs, the synthesis of chemical compounds of medicinal value, and the analysis of medicinal agents. Pharmacists are responsible for the preparation of the dosage forms of drugs, such as tablets, capsules, and sterile solutions for injection. They compound physicians’, dentists’, and veterinarians’ prescriptions for drugs. The science that embraces knowledge of drugs with special reference to the mechanism of their action in the treatment of disease is pharmacology.History of pharmacy.The beginnings of pharmacy are ancient. When the first person expressed juice from a succulent leaf to apply to a wound, this art was being practiced. In the Greek legend, Asclepius, the god of the healing art, delegated to Hygieia the duty of compounding his remedies. She was his apothecary or pharmacist. The physician-priests of Egypt were divided into two classes: those who visited the sick and those who remained in the temple and prepared remedies for the patients.",
+    "img":"https://lh3.googleusercontent.com/UHD4acexSThS5OK1ma1_kng5r0FqHyPdoqyT8fe8ZsCF3tL2sD1ZWXsHgA1YnAyFgHTkpZvOcTAe-Fh8RsHze4XW=l80-w1500-e365"
+},
+{
+    "name":"Hematology",
+    "description":"Hematology is the study of blood and blood disorders. Hematologists and hematopathologists are highly providers who specialize in diseases of the blood. ",
+    "detailsInfo":"Hematology is the science or study of blood, blood-forming organs and blood diseases.In the medical field, hematology includes the treatment of blood disorders and malignancies, including types of hemophilia, leukemia, lymphoma and sickle-cell anemia. Hematology is a branch of internal medicine that deals with the physiology, pathology, etiology, diagnosis, treatment, prognosis and prevention of blood-related disorders.Hematologists focus largely on lymphatic organs and bone marrow and may diagnose blood count irregularities or platelet irregularities. Hematologists treat organs that are fed by blood cells, including the lymph nodes, spleen, thymus and lymphoid tissue.Anatomy of blood.Blood is made up of several parts, including red blood cells, white blood cells, platelets and plasma. Red blood cells, which make up about 45% of whole blood, carry oxygen from the lungs to the body’s tissue. They also carry carbon dioxide back to the lungs to be exhaled. They are disc-shaped, and produced in the bone marrow. White blood cells, which are also made in the marrow, help fight infection. Together with platelets, they make up less than 1% of whole blood. Platelets are small, colorless fragments that stick together and interact with clotting proteins to stop or prevent bleeding. They are also produced in bone marrow.",
+    "img":"https://www.vejthani.com/wp-content/uploads/2020/03/Hematology-Clinic-Header-Cover-11.jpg"
+},
+{
+    "name":"Gynecology",
+    "description":"Gynecologists are doctors who specialize in women's health, with a focus on the female reproductive system. They deal with a wide range of issues including obstetrics . ",
+    "detailsInfo":"Gynaecology or gynecology is the medical practice dealing with the health of the female reproductive system. Almost all modern gynaecologists are also obstetricians. In many areas, the specialities of gynaecology and obstetrics overlap. The term means, A gynecologist is a physician who specializes in the medical care of women and in health of the female reproductive system. They also deal with pap smear, infections of vaginal and uterine origin, fertility problems, contraception, tubal ligations and hysterectomy.",
+    "img":"https://7dmc.ae/wp-content/uploads/2020/08/banner-Gynecology-Clinic2-1200x675.jpg"
+}
+]

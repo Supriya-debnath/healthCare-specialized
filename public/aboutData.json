@@ -1,0 +1,57 @@
+
+[
+    {
+        "name": "Dr. Rony K",
+        "profession":"Cardiology",
+        "description":"Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis. ",
+        "img":"http://denthemes.com/themes/wp/viscareo/wp-content/uploads/2021/04/doctor-img-6.jpg"
+    },
+    {
+        "name": "Dr. Eva A",
+        "profession":"Neurology",
+        "description":"Neurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system. The nervous system is a complex, sophisticated system.",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT4_rvAvK-x91axnLhcB1ZQ22Yx6p2LP5dsg&usqp=CAU"
+    },
+    {
+        "name": "Dr.Rahaman",
+        "profession":"Urology",
+        "description":"Urology, also known as genitourinary surgery, is the branch of medicine that focuses on surgical and medical diseases of the male and female urinary-tract system . ",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNY2bWKUHVx5pZnMmG7xuevQYrBGiiOLkUNg&usqp=CAU"
+    },
+    {
+        "name": "Dr. Sonia K",
+        "profession":"Valve Diseases",
+        "description":"In heart valve disease, one or more of the valves in your heart doesn't work properly. Your heart has four valves that keep blood flowing in the correct direction. ",
+        "img":"https://media.istockphoto.com/photos/smiling-female-doctor-holding-medical-records-picture-id588364332?k=20&m=588364332&s=612x612&w=0&h=2x0bVLJx5o6Lsqr4-bIHWScngJfbjvq-L2NFAhpMIs0="
+    },
+    {
+        "name": "Dr.Olivia",
+        "profession":"Body Surgery",
+        "description":"Improving aesthetic appeal, symmetry, and proportion are the key goals. An aesthetic surgery can be performed on all areas of the head, neck, and body. ",
+        "img":"https://media.istockphoto.com/photos/portrait-of-female-african-american-doctor-standing-in-her-office-at-picture-id1193303828?k=20&m=1193303828&s=612x612&w=0&h=pR-j4lYHKLuquDEpAbi55VwA3D8WZRHCbFyWdolOXnI="
+    },
+    {
+        "name": "Dr.Salvivia",
+        "profession":"Children’s",
+        "description":"Child health is the purview of pediatrics, which became a medical specialty in the mid-nineteenth century. Before that time the care and treatment of childhood diseases. ",
+        "img":"https://media.gettyimages.com/photos/we-offer-our-patients-premium-healthcare-here-picture-id638647058?s=612x612"
+    },
+    {
+        "name": "Dr. Alimayak",
+        "profession":"Pharmacy",
+        "description":"Pharmacists dispense prescription medications to patients and offer expertise in the safe use of prescriptions. They also may conduct health and wellness screenings .",
+        "img":"https://media.istockphoto.com/photos/african-ethnicity-female-doctor-with-a-face-mask-picture-id1277478866?b=1&k=20&m=1277478866&s=170667a&w=0&h=rjNovwD961yFXdpxiAVJwNNL0jzwnN0j05zuCucryTo="
+    },
+    {
+        "name": "Dr. seviliya",
+        "profession":"Hematology",
+        "description":"Hematology is the study of blood and blood disorders. Hematologists and hematopathologists are highly providers who specialize in diseases of the blood. ",
+        "img":"https://media.istockphoto.com/photos/young-female-doctor-posing-on-white-picture-id1199676919?k=20&m=1199676919&s=612x612&w=0&h=su8LAg_gHBmo9uWB2_esZ0686FETxKWk-_NY5a2D9pY="
+    },
+    {
+        "name": "Dr. yankafi",
+        "profession":"Gynecology",
+        "description":"Gynecologists are doctors who specialize in women's health, with a focus on the female reproductive system. They deal with a wide range of issues including obstetrics . ",
+        "img":"https://media.istockphoto.com/photos/female-doctor-standing-in-hospital-corridor-picture-id830343990?k=20&m=830343990&s=612x612&w=0&h=nRzLZlqjDhLzLkuD0Wgmb25rtXacnia8Z50tpDHmGq0="
+    }
+    ]
