@@ -1,79 +1,65 @@
-:root {
-	--input-padding-x: 1.5rem;
-	--input-padding-y: 0.75rem;
-  }
-  
-  .card-signin {
-	border: 0 !important;
-	border-radius: 1rem !important;
-	box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1) !important;
-	overflow: hidden !important;
-	-webkit-border-radius: 1rem !important;
-	-moz-border-radius: 1rem !important;
-	-ms-border-radius: 1rem !important;
-	-o-border-radius: 1rem !important;
-}
-  
-  .card-signin .card_title {
-	margin-bottom: 2rem !important;
-	font-weight: 600 !important;
-	font-size: 1.5rem !important;
-  }
-  
-  .card-signin .card_img_left {
-	width: 45% !important;
-	background: scroll center
-	  url("https://source.unsplash.com/WEQbe2jBg40/414x512");
-	background-size: cover !important;
-  }
-  
-  .card-signin .card_body {
-	padding: 2rem !important;
-  }
-  
-  .form_signin {
-	width: 100% !important;
-  }
-  
-  .signin_btn {
-	font-size: 80% !important;
-	border-radius: 5rem !important;
-	letter-spacing: 0.1rem !important;
-	font-weight: bold !important;
-	padding: 1rem !important;
-	transition: all 0.2s !important;
-	box-shadow: none !important;
-  }
-  
-  .form_group {
-	position: relative;
-	margin-bottom: 1rem;
-  }
-  
-  .form_group input {
-	padding: 0.7rem;
-	height: auto;
-	border-radius: 2rem;
-	box-shadow: none !important;
-  }
-  
-  .btn-google {
-	color: white;
-	background-color: #ea4335 !important;
-  }
-  
-  .btn-google:hover {
-	background-color: #cc2f20 !important;
-  }
-  
-  .btn-facebook {
-	color: white;
-	background-color: #3b5998 !important;
-  }
-  
-  .btn-facebook:hover {
-	background-color: #2558c5 !important;
-  }
-  
 
+ 
 
+.mini-btn {
+    background: none;
+    color: none;
+    outline: none;
+    border: none;
+    color: #ff6e40;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  .mini-btn:hover {
+    color: #eb3c06;
+  }
+  .my-btn-google {
+    color: white;
+    background-color: #2ea81c !important;
+    border-radius: 5px;
+    border: none;
+  }
+  .my-btn-facebook {
+    color: white;
+    background-color: #3a5999 !important;
+    border-radius: 5px;
+    border: none;
+  }
+  .icon {
+    font-size: 1.5rem;
+  }
+  .error {
+    color: rgb(255, 191, 191);
+    font-weight: light;
+  }
+  .success {
+    color: greenyellow;
+    font-weight: light;
+  }
+  
+  .my-form .inp-style {
+    color: steelblue;
+    width: 100%;
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    backdrop-filter: blur(15px);
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
+    margin: 10px 0;
+    outline: white;
+  }
+  .my-form .inp-style:focus {
+    border: white;
+    outline: white;
+  }
+  .my-form .inp-style::placeholder {
+    color: rgba(101, 207, 221, 0.993);
+  }
+  .my-btn-submit {
+    color: white;
+    background-color: #ff6e40 !important;
+    border-radius: 5px;
+    border: none;
+  }
